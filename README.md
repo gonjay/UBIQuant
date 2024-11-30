@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` for your GitHub project **UBIQuant**:
-
-```markdown
 # UBIQuant: AI-Driven Quantitative Hedge Fund for Universal Basic Income (UBI)
 
 UBIQuant is an open-source project that leverages AI to build a quantitative hedge fund aimed at generating sustainable profits to support Universal Basic Income (UBI). The project focuses on both traditional financial markets and cryptocurrency markets, using Python as the core programming language. By combining advanced quantitative strategies, AI models, and backtesting tools, UBIQuant empowers developers, researchers, and enthusiasts to collaborate on building a better financial future.
