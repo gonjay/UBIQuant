@@ -135,14 +135,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Connect with Us
 
-- GitHub: [UBIQuant](https://github.com/yourusername/UBIQuant)
-- Discussions: [Join the Community](https://github.com/yourusername/UBIQuant/discussions)
-- Issues: [Report Bugs or Request Features](https://github.com/yourusername/UBIQuant/issues)
+- GitHub: [UBIQuant](https://github.com/gonjay/UBIQuant)
+- Discussions: [Join the Community](https://github.com/gonjay/UBIQuant/discussions)
+- Issues: [Report Bugs or Request Features](https://github.com/gonjay/UBIQuant/issues)
 ```
 
-### Instructions for Customization:
-1. Replace `yourusername` with your GitHub username or organization name.
-2. Add any additional features or modules you plan to include in the project.
-3. Consider adding example demo notebooks or tutorials in the repository to help users get started.
-
-Good luck with your project, and thank you for contributing to open-source innovation!
